@@ -1,6 +1,7 @@
 var CACHE_NAME = 'massar';
 var urlsToCache = [
-  '/'
+  '/',
+  'https://eu-central-1-shared-euc1-02.cdn.hygraph.com/content/clcc9db683nim01uh843e18dc/master'
 ];
 
 // Install a service worker
